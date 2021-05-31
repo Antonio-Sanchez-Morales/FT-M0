@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: blue;
+}
+img {
+  width: 400px;
+}
+#thirdDiv {
+  width: 500px;
+  height: 650px;
+  background-color: crimson;
+  padding: 50px;
+  border: 4px rgb(66, 7, 121) solid;
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
